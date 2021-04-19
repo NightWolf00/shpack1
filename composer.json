@@ -1,0 +1,17 @@
+{
+    "name": "erfan/shpack1",
+    "description": "mm",
+    "type": "library",
+    "authors": [
+        {
+            "name": "NightWolf808",
+            "email": "erfanqsn505@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4":{
+            "Name\\Family\\": "src/"
+        }
+    },
+    "require": {}
+}
