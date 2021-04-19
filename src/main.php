@@ -1,5 +1,5 @@
 <?php
-namespace Name/Family;
+namespace Name\Family;
 class Ok
 {
   public function __construct()
